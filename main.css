@@ -1,7 +1,8 @@
 main {
     text-align: center;
     font-family: 'Playfair Display', serif;
-    
+    width: 800px;
+    margin: auto;
 }
 h1, h2 {
     color: green;
