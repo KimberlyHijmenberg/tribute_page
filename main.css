@@ -1,9 +1,18 @@
-main {
-    text-align: center;
-    font-family: 'Playfair Display', serif;
+body {
+    background-color: 
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
     width: 800px;
     margin: auto;
+} 
+#img-div {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 30px;
 }
+
 h1, h2 {
     color: green;
+    text-align: center;
 }
